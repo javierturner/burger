@@ -1,20 +1,34 @@
+body {
+    background-image: url(../images/close-photography-of-grilled-meat-on-griddle-1105325.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    /* align-content: center; */
+}
+
+.col-md-8 {
+    background-color: rgba(128, 128, 128, 0.589);
+    width: 75%;
+}
+
 li {
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
+    background-color: #f69b5e;
   }
   
-  .label {
+.label {
     font-weight: bold;
   }
   
-  .create-update-form {
+.create-update-form {
     padding: 5px;
     margin: 5px;
     background: aqua;
   }
   
-  .form-group {
+.form-group {
     margin-bottom: 5px;
   }
   
