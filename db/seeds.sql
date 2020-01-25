@@ -1,2 +1,2 @@
-INSERT INTO burgers (name) VALUES ('Mammoth');
-INSERT INTO burgers (name) VALUES ('Texas Melt');
+INSERT INTO burgers (name, devoured) VALUES ('Mammoth', false);
+INSERT INTO burgers (name, devoured) VALUES ('Texas Melt', false);
